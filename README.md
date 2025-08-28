@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Safkatul Islam</h1>
 <h2>💫 About Me: </h2> <h3 align="center">A passionate aspiring Software Developer</h3>
-🔭 I’m currently working on my Java, Spring, and DSA skills<br>👯 I’m looking to collaborate on small and big projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning Data Structures and Mathematics<br>💬 Ask me about anything related coding and life in abroad<br>⚡ Fun fact: I finally learnt how to cook!
+👯 I’m looking to collaborate on small and big projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about anything related coding and life in abroad<br>⚡ Fun fact: I finally learnt how to cook!
 
 
 # 💻 Tech Stack:
