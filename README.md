@@ -88,7 +88,7 @@ const safkat = {
 
 ---
 
-### *🌟 I love working on cool coding projects... Feel free to reach out if you have anything on mind or just chat* ;)
+### *🌟 I love working on cool coding projects... Feel free to reach out if you have anything on mind or chat* ;)
 
 ---
 <p align="center">
