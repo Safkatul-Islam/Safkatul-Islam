@@ -121,18 +121,6 @@ const safkat = {
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safkatul-Islam&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safkatul-Islam&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### *🌟 I love working on cool coding projects... Feel free to reach out if you have anything on mind or chat* ;)
 
 ---
