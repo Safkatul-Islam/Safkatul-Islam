@@ -16,13 +16,14 @@
 ```javascript
 const safkat = {
   goal: "Becoming a Software Engineer",
-  code: ["Java", "JavaScript", "Python", "C++"],
-  backend: ["Spring Boot", "Node.js", "Flask"],
-  frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-  tools: ["Git", "Docker", "AWS", "PostgreSQL", "MongoDB", "Postman"],
+  code: ["Java", "JavaScript", "TypeScript", "Python", "C++"],
+  backend: ["Spring Boot", "Node.js", "FastAPI"],
+  frontend: ["React.js", "Next.js", "Tailwind CSS", "GSAP", "Framer Motion"],
+  database: ["PostgreSQL", "MongoDB", "Supabase"],
+  tools: ["Git/GitHub", "Docker", "AWS", "CI/CD Pipeline", "KafKa", "Postman"],
   community: {
-    club: "Computer Science Club",
-    role: "Event Manager"
+    club: "Computer Science Club", "Entrepreneurs Valley",
+    role: "Board Member"
   },
   currentProject: "Building AI agents to automate my daily tasks 🤖"
 }
